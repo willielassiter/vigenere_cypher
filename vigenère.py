@@ -68,10 +68,10 @@ test_message = "Dfc aruw fsti gr vjtwhr wznj? Vmph otis! Cbx swv jipreneo uhllj 
 decoded = vigenère_codec (test_message, "FRIENDS", Decrypt)
 print (decoded)
 
-# encoded_message = vigenère_codec (decoded, "friends", Encrypt)
-# print (encoded_message)
+encoded_message = vigenère_codec (decoded, "friends", Encrypt)
+print (encoded_message)
 
-# if encoded_message != test_message:
-#     print ("\nprogram failed")
-# else:
-#     print ("\nprogram succeeded")
+if encoded_message != test_message:
+    print ("\nprogram failed")
+else:
+    print ("\nprogram succeeded")

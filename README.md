@@ -6,7 +6,7 @@ i'm adding a new line for testing purposes
 
 this is another added line.
 
-and this is one more added line.
+and this is one more added line with some added text
 
 just screwing around with merge conflicts
 

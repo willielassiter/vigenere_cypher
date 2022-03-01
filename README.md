@@ -6,11 +6,9 @@ i'm adding a new line for testing purposes
 
 this is another added line.
 
-<<<<<<< HEAD
 and this is one more added line with some added text
-=======
+
 this is one more added line.
->>>>>>> d8ae277353df69f01c497dbc8af27798342d83d8
 
 just screwing around with merge conflicts
 

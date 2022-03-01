@@ -1,4 +1,4 @@
-who has git is difficult
+who said git is difficult to use
 
 This is the start of something bigger..
 
